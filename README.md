@@ -5,7 +5,7 @@
 
 ## ❗️About
 
-<h3>A page with some products and a shopping cart list with JS interactions</h3>
+<h3>A page that gets names and ramdomizes them!</h3>
 
 <br>
 
